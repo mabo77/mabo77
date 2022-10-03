@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabo77 aka Matthew Bode
 - 👀 I’m interested in ...making music (Cubase,Reason Studio) 
--[>https://soundcloud.com/m4te-x-1'>matex<],
+-[>https://soundcloud.com/m4te-x-1],
 - programming......[>http://www.mat3d.com<]
 - ,drawing,painting and riding my mountainbike
 - 🌱 I’m currently migrating my website to the latest jquery version ...
